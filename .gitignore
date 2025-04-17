@@ -1,7 +1,7 @@
 *.csv
 .DS_Store
 *.pdf
-*.png
+.png
 *.npy
 *.jpeg
 *.jpg
